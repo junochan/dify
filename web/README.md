@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### Run by source code
 
-To start the web frontend service, you will need [Node.js v18.x (LTS)](https://nodejs.org/en) and [pnpm version 9.12.2](https://pnpm.io).
+To start the web frontend service, you will need [Node.js v20.x (LTS)](https://nodejs.org/en) and [pnpm version 9.12.2](https://pnpm.io).
 
 First, install the dependencies:
 
